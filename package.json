@@ -6,7 +6,9 @@
   },
   "dependencies": {
     "babel-runtime": "^6.20.0",
-    "meteor-node-stubs": "~0.2.4"
+    "meteor-node-stubs": "~0.2.4",
+    "wechat": "^2.1.0",
+    "wechat-api": "^1.32.0"
   },
   "devDependencies": {
     "jssha": "^2.2.0"
